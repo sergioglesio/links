@@ -9,6 +9,6 @@ switchButton.addEventListener("click", () => {
 	if (html.classList.contains("light")) {
 		img.src = "assets\\sergio.png"
 	} else {
-		img.src = "assets\\sergio-light.png"
+		img.src = "assets\\sergio.png"
 	}
 })
